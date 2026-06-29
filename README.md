@@ -41,3 +41,23 @@ This script will detect what your distro is based on from the list below and dow
  - Once the games launches click the **Apply Patch** link on the right side menu to upgrade to the latest version available.
  - This will also generate an icon on the menu bar. You can simply right click and pin it to make it easier to launch the game next time.
     - I'd recommend launching the game from this pinned icon before creating characters. If not, characters created from the CLI launch of the game may not show in the game launched from the pinned icon.
+
+<HR>
+
+# Notes:
+
+ - Do to the nature of Wine the scripts aren't able to remove the iso used to install the game. To remove it, simply type this in the CLI:
+```
+sudo umount ~/freelancer_cd
+sudo rm -rf ~/freelancer_cd
+```
+
+- Log files can be found in the ~/ directory
+   - discovery_install.log
+   - freelancer_install.log
+
+- Delete install files:
+   - ~/Downloads/Freelancer.iso
+   - ~/Downloads/discovery_5.3.2.exe
+   - ~/freelancer_install.sh
+   - ~/discovery_install.sh
