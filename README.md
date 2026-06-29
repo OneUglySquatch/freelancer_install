@@ -25,8 +25,8 @@
  - Let the script run and answer ***YES*** to all default questions and install anything that pops up to their default settings.
 
 ## 5. Launching Discovery Freelancer
- - To launch the game you will need to to go the game directory which is
-    - `$HOME/Freelancer/drive_c/users/$USER/AppData/Local/Discovery Freelancer 5.3.2`
+ - To launch the game you will need to to go the game directory which is:
+    - `~/Freelancer/drive_c/users/$USER/AppData/Local/Discovery Freelancer 5.3.2`
  - From there type
     - `wine DSLauncher.exe`
  - Once the games launches click the **Apply Patch** link on the right side menu to upgrade to the latest version available.
