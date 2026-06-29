@@ -1,4 +1,7 @@
-# Linux install script for Freelancer (2003) & Discovery Freelancer 5.3.2 Mod
+# Linux Install Scripts 
+   - Freelancer (2003)
+   - Discovery Freelancer 5.3.2 Mod
+<HR>
 
 ## 1. Downlaod the game and the mod to your ~/Downloads directory
 
