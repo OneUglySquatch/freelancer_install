@@ -16,9 +16,9 @@
  - Be logged in are your normal user. ***DO NOT RUN THESE SCRIPTS AS SU OR ROOT***
  - Run `bash freelancer_install.sh`
  - Let the script run and answer ***YES*** to all default questions and install anything that pops up to their default settings.
- - Once the game is installed, do not run it yet. You need to run the mod first.
- - There are some instances where the command prompt is missing after the script has completed. Just hit the Enter key and it will come back
- - Depending on your distro, you'll most likly see the Freelancer game icon in your menu or quick launch bar.
+    - Once the game is installed, do not run it yet. You need to run the mod first.
+    - There are some instances where the command prompt is missing after the script has completed. Just hit the Enter key and it will come back
+    - Depending on your distro, you'll most likly see the Freelancer game icon in your menu or quick launch bar.
 
 ## 4. Install Discovery Freelancer Mod
  - Run `bash discovery_install.sh`
